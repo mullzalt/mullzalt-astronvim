@@ -9,4 +9,12 @@ return {
   --     require("lsp_signature").setup()
   --   end,
   -- },
+  {
+    "ThePrimeagen/vim-be-good",
+    event = "VeryLazy",
+  },
+  {
+    "lervag/vimtex",
+    event = "VeryLazy",
+  },
 }
