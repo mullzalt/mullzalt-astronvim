@@ -13,8 +13,4 @@ return {
     "ThePrimeagen/vim-be-good",
     event = "VeryLazy",
   },
-  {
-    "lervag/vimtex",
-    event = "VeryLazy",
-  },
 }
